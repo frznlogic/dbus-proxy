@@ -1,3 +1,11 @@
 *.swp
 *.swo
 build
+.vagrant/
+clang/
+
+__pycache
+*.pyc
+
+component-test/component-test-results.xml
+
